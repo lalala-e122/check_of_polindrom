@@ -1,0 +1,1 @@
+# check_of_polindrom
